@@ -1,5 +1,6 @@
-﻿using System;
+﻿using LeetCodePractice.Week01_Arrays.Best_Time_to_Buy_and_Sell_Stock;
 using LeetCodePractice.Week01_Arrays.TwoSum;
+using System;
 
 namespace LeetCodePractice
 {
@@ -7,14 +8,12 @@ namespace LeetCodePractice
     {
         static void Main(string[] args)
         {
-            var solution = new Solution();
+            var solution = new Best_Time_to_Buy_and_Sell_Stock();
 
-            int[] nums = { 2, 7, 11, 15 };
-            int target = 9;
+            int[] prices = { 7, 1, 5, 3, 6, 4 };
 
-            var result = solution.TwoSum(nums, target);
+            Console.WriteLine(solution.MaxProfit(prices)); // 5
 
-            Console.WriteLine($"Result: [{result[0]}, {result[1]}]");
         }
     }
 }

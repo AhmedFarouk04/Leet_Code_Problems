@@ -1,6 +1,4 @@
 ﻿Problem: Two Sum
-LeetCode #: 1
-Difficulty: Easy
 
 Pattern:
 - Hash Table (Index Mapping)

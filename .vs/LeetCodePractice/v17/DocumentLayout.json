@@ -1,18 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Backend\\.net\\project\\LeetCodePractice\\LeetCodePractice\\",
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\Downloads\\My-Github\\LeetCodePractice\\LeetCodePractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|d:\\backend\\.net\\project\\leetcodepractice\\leetcodepractice\\week01_arrays\\twosum\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|solutionrelative:week01_arrays\\twosum\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|d:\\backend\\.net\\project\\leetcodepractice\\leetcodepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|c:\\users\\ahmed\\downloads\\my-github\\leetcodepractice\\leetcodepractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|d:\\backend\\.net\\project\\leetcodepractice\\leetcodepractice\\week01_arrays\\twosum\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|c:\\users\\ahmed\\downloads\\my-github\\leetcodepractice\\leetcodepractice\\week01_arrays\\best time to buy and sell stock\\best time to buy and sell stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|solutionrelative:week01_arrays\\best time to buy and sell stock\\best time to buy and sell stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|c:\\users\\ahmed\\downloads\\my-github\\leetcodepractice\\leetcodepractice\\week01_arrays\\best time to buy and sell stock\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|solutionrelative:week01_arrays\\best time to buy and sell stock\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|c:\\users\\ahmed\\downloads\\my-github\\leetcodepractice\\leetcodepractice\\week01_arrays\\twosum\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|solutionrelative:week01_arrays\\twosum\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|c:\\users\\ahmed\\downloads\\my-github\\leetcodepractice\\leetcodepractice\\week01_arrays\\twosum\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1CD9A03-8C25-40A7-A4A1-2E5097E625E3}|LeetCodePractice.csproj|solutionrelative:week01_arrays\\twosum\\twosum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,40 +39,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Backend\\.net\\project\\LeetCodePractice\\LeetCodePractice\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Backend\\.net\\project\\LeetCodePractice\\LeetCodePractice\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "Best Time to Buy and Sell Stock.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\LeetCodePractice\\LeetCodePractice\\Week01_Arrays\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.cs",
+              "RelativeDocumentMoniker": "Week01_Arrays\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\LeetCodePractice\\LeetCodePractice\\Week01_Arrays\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.cs*",
+              "RelativeToolTip": "Week01_Arrays\\Best Time to Buy and Sell Stock\\Best Time to Buy and Sell Stock.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T22:35:46.589Z",
+              "WhenOpened": "2026-01-07T05:21:58.672Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "README.md",
-              "DocumentMoniker": "D:\\Backend\\.net\\project\\LeetCodePractice\\LeetCodePractice\\Week01_Arrays\\TwoSum\\README.md",
-              "RelativeDocumentMoniker": "Week01_Arrays\\TwoSum\\README.md",
-              "ToolTip": "D:\\Backend\\.net\\project\\LeetCodePractice\\LeetCodePractice\\Week01_Arrays\\TwoSum\\README.md",
-              "RelativeToolTip": "Week01_Arrays\\TwoSum\\README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\LeetCodePractice\\LeetCodePractice\\Week01_Arrays\\Best Time to Buy and Sell Stock\\README.md",
+              "RelativeDocumentMoniker": "Week01_Arrays\\Best Time to Buy and Sell Stock\\README.md",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\LeetCodePractice\\LeetCodePractice\\Week01_Arrays\\Best Time to Buy and Sell Stock\\README.md",
+              "RelativeToolTip": "Week01_Arrays\\Best Time to Buy and Sell Stock\\README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-01-06T22:31:34.485Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TwoSum.cs",
-              "DocumentMoniker": "D:\\Backend\\.net\\project\\LeetCodePractice\\LeetCodePractice\\Week01_Arrays\\TwoSum\\TwoSum.cs",
-              "RelativeDocumentMoniker": "Week01_Arrays\\TwoSum\\TwoSum.cs",
-              "ToolTip": "D:\\Backend\\.net\\project\\LeetCodePractice\\LeetCodePractice\\Week01_Arrays\\TwoSum\\TwoSum.cs",
-              "RelativeToolTip": "Week01_Arrays\\TwoSum\\TwoSum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T22:31:06.978Z",
+              "WhenOpened": "2026-01-07T05:21:20.418Z",
               "EditorCaption": ""
             },
             {
@@ -74,6 +69,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\LeetCodePractice\\LeetCodePractice\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\LeetCodePractice\\LeetCodePractice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T22:35:46.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\LeetCodePractice\\LeetCodePractice\\Week01_Arrays\\TwoSum\\README.md",
+              "RelativeDocumentMoniker": "Week01_Arrays\\TwoSum\\README.md",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\LeetCodePractice\\LeetCodePractice\\Week01_Arrays\\TwoSum\\README.md*",
+              "RelativeToolTip": "Week01_Arrays\\TwoSum\\README.md*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-01-06T22:31:34.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TwoSum.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\Downloads\\My-Github\\LeetCodePractice\\LeetCodePractice\\Week01_Arrays\\TwoSum\\TwoSum.cs",
+              "RelativeDocumentMoniker": "Week01_Arrays\\TwoSum\\TwoSum.cs",
+              "ToolTip": "C:\\Users\\ahmed\\Downloads\\My-Github\\LeetCodePractice\\LeetCodePractice\\Week01_Arrays\\TwoSum\\TwoSum.cs",
+              "RelativeToolTip": "Week01_Arrays\\TwoSum\\TwoSum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T22:31:06.978Z",
+              "EditorCaption": ""
             }
           ]
         }
