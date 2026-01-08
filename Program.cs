@@ -1,4 +1,5 @@
 ﻿using LeetCodePractice.Week01_Arrays.Best_Time_to_Buy_and_Sell_Stock;
+using LeetCodePractice.Week01_Arrays.Longest_Substring_Without_Repeating_Characters;
 using LeetCodePractice.Week01_Arrays.TwoSum;
 using System;
 
@@ -8,11 +9,11 @@ namespace LeetCodePractice
     {
         static void Main(string[] args)
         {
-            var solution = new Best_Time_to_Buy_and_Sell_Stock();
+            var sol = new Longest_Substring_Without_Repeating_Characters();
 
-            int[] prices = { 7, 1, 5, 3, 6, 4 };
-
-            Console.WriteLine(solution.MaxProfit(prices)); // 5
+            Console.WriteLine(sol.LengthOfLongestSubstring("abcabcbb")); // 3
+            Console.WriteLine(sol.LengthOfLongestSubstring("bbbbb"));    // 1
+            Console.WriteLine(sol.LengthOfLongestSubstring("pwwkew"));
 
         }
     }
