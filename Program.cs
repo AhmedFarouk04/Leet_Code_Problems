@@ -10,10 +10,12 @@ namespace LeetCodePractice
     {
         static void Main(string[] args)
         {
+
+
             var sol = new SubarraySumEqualsK();
 
-            int[] nums = { 1, 1, 1 };
-            int k = 2;
+            int[] nums = { 1,5,2,5,2 };
+            int k = 7;
 
             Console.WriteLine(sol.SubarraySum(nums, k)); // 2
 

@@ -8,6 +8,15 @@ namespace LeetCodePractice.Week01_Arrays.Subarray_Sum_Equals_K
 {
     public class SubarraySumEqualsK
     {
+
+        /*[1,1,1]
+          prefixCount[0] = 1;   {0:1}
+            int currentSum = 0;
+            int count = 0;
+          
+         
+         */
+
         public int SubarraySum(int[] nums, int k)
         {
             Dictionary<int, int> prefixCount = new Dictionary<int, int>();
