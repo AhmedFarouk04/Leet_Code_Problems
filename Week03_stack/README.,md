@@ -1,0 +1,58 @@
+﻿
+---
+
+📘 **Week 3 – Stack & Monotonic Stack**
+🎯 **Goal of the Week**
+Understand and use **Stack** to solve problems that involve:
+
+* Order
+* Finding the next/previous element
+* Evaluating expressions
+
+🧠 **Core Concepts Learned**
+
+1️⃣ **Stack Basics**
+
+* LIFO (Last In First Out)
+* Operations: `push`, `pop`, `peek`
+* Useful for problems with:
+
+  * Matching opening/closing
+  * Going back
+  * Tracking previous state
+
+2️⃣ **Monotonic Stack**
+
+* A stack that keeps elements in **increasing** or **decreasing** order
+* Used for:
+
+  * Next Greater Element
+  * Previous Smaller Element
+  * Nearest bigger/smaller element
+
+📂 **Problems Covered This Week**
+
+* **Valid Parentheses** → Check brackets using Stack
+* **Min Stack** → Stack supporting `getMin()` in O(1)
+* **Daily Temperatures** → First hotter day using Monotonic Stack
+* **Next Greater Element I** → Find next greater element using Stack + HashMap
+* **Next Greater Element II (Circular)** → Same but for circular array
+* **Evaluate Reverse Polish Notation** → Evaluate expressions using Stack
+* **Largest Rectangle in Histogram** → Find largest rectangle area in O(n)
+
+⏱️ **Complexity Pattern**
+
+* Most solutions:
+
+  * **Time:** O(n)
+  * **Space:** O(n)
+* Each element enters the stack once and leaves once
+
+🧩 **Key Takeaway**
+If a problem asks:
+
+> “Find the first bigger/smaller element to the left or right”
+> 👉 Think **Monotonic Stack** immediately
+
+---
+
